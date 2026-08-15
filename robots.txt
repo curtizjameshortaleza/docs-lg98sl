@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-mtn1k3.pulaucuansite.cfd/sitemap.xml
